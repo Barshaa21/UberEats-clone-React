@@ -1,0 +1,17 @@
+html {
+  margin: 0;
+  font-size: 9px;
+  overflow-x: hidden;
+}
+
+@media (min-width: 660px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1000px) {
+  html {
+    font-size: 14px;
+  }
+}
